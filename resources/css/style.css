@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url("C:/Users/Caleb/Desktop/Computer Science/projects/broadway/resources/images/the-flatiron-building.png");
+}
