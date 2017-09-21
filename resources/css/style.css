@@ -28,8 +28,8 @@ h5 {
   font-size: 14px;
 }
 
-div {
-  background-image: url("C:/Users/Caleb/Desktop/Computer Science/projects/broadway/resources/images/the-flatiron-building.png");
+.hero {
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 span {
